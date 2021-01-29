@@ -1,0 +1,6 @@
+<!--Bhargav Patel N01373029 section A-->
+<!--Ctrl + '/' to add comments -->
+<resources>
+    <string name="app_name">Bhargav Patel N01373029</string>
+    <string name="text_label">Ceci est ma première application Android! </string>
+</resources>
