@@ -3,4 +3,6 @@
 <resources>
     <string name="app_name">Bhargav Patel N01373029</string>
     <string name="text_label">This is my first Android Application!</string>
+    <string name="btn1">Button 1</string>
+    <string name="btn2">Button 2</string>
 </resources>
