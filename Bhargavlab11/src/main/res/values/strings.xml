@@ -2,7 +2,12 @@
 <!--Ctrl + '/' to add comments -->
 <resources>
     <string name="app_name">Bhargav Patel N01373029</string>
-    <string name="text_label">This is my first Android Application!</string>
+    <string name="text_label">Welcome! Bhargav Patel N01373029</string>
     <string name="btn1">Button 1</string>
     <string name="btn2">Button 2</string>
+    <string name="Snackbar_Info">Bhargav Patel</string>
+    <string name="Private">message_key</string>
+    <string name="MyWebsite">https://www.z8games.com/</string>
+    <string name="ToastContext">Bhargav Patel .You have accessed my favourite game website</string>
+    <string name="SecondScreen">My Second Screen. Bhargav Patel N01373029</string>
 </resources>
